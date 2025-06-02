@@ -1,5 +1,4 @@
 # MLSN-team-3-tensor-titans
-MLSN project 
 # 🤟 ASL Hand Sign Recognition (A–E)
 
 This project implements a real-time American Sign Language (ASL) hand sign recognition system for the letters **A** to **E** using deep learning and computer vision. It uses a trained CNN model to classify ASL hand gestures from a webcam feed, powered by TensorFlow, OpenCV, and MediaPipe.
